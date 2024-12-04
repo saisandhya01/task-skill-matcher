@@ -96,3 +96,80 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.profile-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 20px;
+}
+
+.profile-picture {
+  margin-right: 20px;
+}
+
+.profile-picture img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #007bff;
+}
+
+.profile-info h1 {
+  margin: 0;
+  font-size: 26px;
+  color: #007bff;
+}
+
+.profile-info p {
+  color: #666;
+  font-size: 18px;
+}
+.skills {
+  margin-top: 30px;
+}
+
+.skills h3 {
+  font-size: 22px;
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.skill-name {
+  font-size: 18px;
+  width: 120px;
+  font-weight: 500;
+  color: #333;
+}
+
+.skill-bar-container {
+  width: 70%;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  height: 20px;
+  margin-right: 20px;
+}
+
+.skill-bar {
+  background-color: #007bff;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.skill-level {
+  font-size: 16px;
+  color: #007bff;
+  font-weight: 500;
+}

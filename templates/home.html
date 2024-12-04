@@ -39,11 +39,15 @@
         </thead>
         <tbody>
           {% for employee in employees %}
+
           <tr>
-            <td>{{ employee.emp_id }}</td>
+            <td>
+              <a href="/employee/{{employee.emp_id}}">{{ employee.emp_id }}</a>
+            </td>
             <td>{{ employee.name }}</td>
             <td>{{ employee.match_score }}</td>
           </tr>
+
           {% endfor %}
         </tbody>
       </table>
