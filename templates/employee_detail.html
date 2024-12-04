@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ employee.name }} - Employee Details</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="profile-header">
+        <div class="profile-picture">
+          <!-- Placeholder for Profile Image -->
+          <img
+            src="https://via.placeholder.com/150"
+            alt="{{ employee.name }}'s Profile"
+          />
+        </div>
+        <div class="profile-info">
+          <h1>{{ employee.name }}</h1>
+          <p>Employee ID: {{ employee.emp_id }}</p>
+        </div>
+      </div>
+
+      <div class="skills">
+        <h3>Skills:</h3>
+        <ul>
+          {% for skill, level in employee.skills.items() %}
+          <li>
+            <span class="skill-name">{{ skill }}</span>
+            <div class="skill-bar-container">
+              <div class="skill-bar" style="width: {{ level * 20 }}%"></div>
+            </div>
+            <span class="skill-level">{{ level }} / 5</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <br />
+      <a href="/">Back to Employee Directory</a>
+    </div>
+  </body>
+</html>

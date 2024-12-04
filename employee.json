@@ -1,0 +1,2517 @@
+[
+    {
+        "emp_id": 1,
+        "name": "Kamil82",
+        "skills": {
+            "C++": 1,
+            "PHP": 3,
+            "Ruby": 1,
+            "SQL": 3,
+            "Git": 5
+        }
+    },
+    {
+        "emp_id": 2,
+        "name": "Tariq73",
+        "skills": {
+            "C++": 3,
+            "CSS": 4,
+            "PHP": 4,
+            "Unity": 2,
+            "Java": 5,
+            "React": 3
+        }
+    },
+    {
+        "emp_id": 3,
+        "name": "Ursula69",
+        "skills": {
+            "Swift": 4,
+            "PyTorch": 3,
+            "MongoDB": 2,
+            "React": 4,
+            "Ruby": 5,
+            "Java": 4,
+            "HTML": 4
+        }
+    },
+    {
+        "emp_id": 4,
+        "name": "Liu39",
+        "skills": {
+            "Unity": 3,
+            "Docker": 2,
+            "Java": 2,
+            "Kubernetes": 5,
+            "Git": 3,
+            "CSS": 1,
+            "TensorFlow": 5,
+            "Azure": 4,
+            "MongoDB": 2,
+            "Ruby": 4
+        }
+    },
+    {
+        "emp_id": 5,
+        "name": "Denise96",
+        "skills": {
+            "Go": 3,
+            "Azure": 2,
+            "Ruby": 1,
+            "MongoDB": 2,
+            "Swift": 1
+        }
+    },
+    {
+        "emp_id": 6,
+        "name": "Dinesh85",
+        "skills": {
+            "Python": 2,
+            "Flask": 1,
+            "Ruby": 2,
+            "Django": 5,
+            "MongoDB": 4,
+            "AWS": 4,
+            "Go": 4
+        }
+    },
+    {
+        "emp_id": 7,
+        "name": "Hassan91",
+        "skills": {
+            "Go": 3,
+            "Swift": 2,
+            "Machine Learning": 4,
+            "HTML": 1,
+            "C++": 4
+        }
+    },
+    {
+        "emp_id": 8,
+        "name": "Yara61",
+        "skills": {
+            "HTML": 4,
+            "Python": 1,
+            "Ruby": 1,
+            "Docker": 2,
+            "AWS": 2,
+            "Node.js": 5,
+            "GCP": 4,
+            "CSS": 4
+        }
+    },
+    {
+        "emp_id": 9,
+        "name": "Nia57",
+        "skills": {
+            "JavaScript": 5,
+            "Flask": 5,
+            "Go": 2,
+            "Git": 2,
+            "React": 4,
+            "HTML": 1,
+            "MongoDB": 4
+        }
+    },
+    {
+        "emp_id": 10,
+        "name": "Cheng24",
+        "skills": {
+            "Git": 3,
+            "AWS": 5,
+            "JavaScript": 5,
+            "PHP": 1,
+            "Azure": 1
+        }
+    },
+    {
+        "emp_id": 11,
+        "name": "Farida5",
+        "skills": {
+            "Flask": 3,
+            "SQL": 5,
+            "Azure": 4,
+            "Java": 4
+        }
+    },
+    {
+        "emp_id": 12,
+        "name": "Rani97",
+        "skills": {
+            "Ruby": 2,
+            "Git": 1,
+            "Machine Learning": 3,
+            "Django": 5,
+            "Swift": 4,
+            "GCP": 1,
+            "SQL": 1,
+            "Kubernetes": 2
+        }
+    },
+    {
+        "emp_id": 13,
+        "name": "Banu2",
+        "skills": {
+            "Node.js": 5,
+            "Java": 5,
+            "Django": 3,
+            "Docker": 3,
+            "JavaScript": 3,
+            "PHP": 4,
+            "PyTorch": 1
+        }
+    },
+    {
+        "emp_id": 14,
+        "name": "Ingrid53",
+        "skills": {
+            "C++": 5,
+            "CSS": 4,
+            "Go": 1,
+            "Kubernetes": 3,
+            "GCP": 5,
+            "PHP": 1,
+            "Python": 3,
+            "Django": 3
+        }
+    },
+    {
+        "emp_id": 15,
+        "name": "Giovanni39",
+        "skills": {
+            "CSS": 3,
+            "Spring Boot": 5,
+            "Django": 5,
+            "SQL": 1,
+            "C++": 1
+        }
+    },
+    {
+        "emp_id": 16,
+        "name": "Yasmin7",
+        "skills": {
+            "JavaScript": 2,
+            "Flask": 5,
+            "Azure": 3,
+            "Swift": 2,
+            "Machine Learning": 3,
+            "Git": 4
+        }
+    },
+    {
+        "emp_id": 17,
+        "name": "Aisha42",
+        "skills": {
+            "Ruby": 2,
+            "HTML": 5,
+            "Java": 2,
+            "PHP": 4,
+            "TensorFlow": 3,
+            "CSS": 2,
+            "Azure": 1,
+            "Spring Boot": 4,
+            "Swift": 2
+        }
+    },
+    {
+        "emp_id": 18,
+        "name": "Ibrahim58",
+        "skills": {
+            "Spring Boot": 1,
+            "HTML": 3,
+            "Go": 5,
+            "Django": 4,
+            "MongoDB": 4,
+            "Swift": 3,
+            "Flask": 5,
+            "AWS": 5
+        }
+    },
+    {
+        "emp_id": 19,
+        "name": "Emiko28",
+        "skills": {
+            "GCP": 1,
+            "Swift": 1,
+            "PHP": 4,
+            "Spring Boot": 1,
+            "PyTorch": 3,
+            "Flask": 4,
+            "TensorFlow": 5
+        }
+    },
+    {
+        "emp_id": 20,
+        "name": "Vikram65",
+        "skills": {
+            "Ruby": 2,
+            "Java": 1,
+            "SQL": 2,
+            "PHP": 1,
+            "C++": 1,
+            "Django": 4,
+            "Angular": 2,
+            "Python": 1
+        }
+    },
+    {
+        "emp_id": 21,
+        "name": "Fatima83",
+        "skills": {
+            "Azure": 3,
+            "CSS": 2,
+            "Unity": 3,
+            "Git": 2,
+            "JavaScript": 3
+        }
+    },
+    {
+        "emp_id": 22,
+        "name": "Wang26",
+        "skills": {
+            "SQL": 3,
+            "Django": 5,
+            "Java": 3,
+            "Unity": 3,
+            "PHP": 4,
+            "TensorFlow": 4,
+            "MongoDB": 4,
+            "Spring Boot": 2
+        }
+    },
+    {
+        "emp_id": 23,
+        "name": "Rani96",
+        "skills": {
+            "Go": 1,
+            "Machine Learning": 1,
+            "TensorFlow": 3,
+            "Docker": 5,
+            "AWS": 4,
+            "Azure": 5
+        }
+    },
+    {
+        "emp_id": 24,
+        "name": "Jung76",
+        "skills": {
+            "PyTorch": 5,
+            "Java": 1,
+            "PHP": 4,
+            "JavaScript": 3,
+            "Docker": 5
+        }
+    },
+    {
+        "emp_id": 25,
+        "name": "Ewa77",
+        "skills": {
+            "Java": 5,
+            "Go": 1,
+            "Swift": 5,
+            "Docker": 4,
+            "Python": 2,
+            "Django": 3,
+            "Git": 1,
+            "Ruby": 4
+        }
+    },
+    {
+        "emp_id": 26,
+        "name": "Ravi58",
+        "skills": {
+            "SQL": 1,
+            "C++": 3,
+            "CSS": 5,
+            "Spring Boot": 3,
+            "Docker": 4,
+            "Git": 4,
+            "HTML": 2
+        }
+    },
+    {
+        "emp_id": 27,
+        "name": "Fatima98",
+        "skills": {
+            "Java": 4,
+            "GCP": 4,
+            "AWS": 1,
+            "JavaScript": 4,
+            "Docker": 1,
+            "Git": 4
+        }
+    },
+    {
+        "emp_id": 28,
+        "name": "Dinesh23",
+        "skills": {
+            "Git": 5,
+            "Swift": 1,
+            "CSS": 2,
+            "Angular": 2,
+            "Azure": 3,
+            "Ruby": 2,
+            "Node.js": 2,
+            "Flask": 1
+        }
+    },
+    {
+        "emp_id": 29,
+        "name": "Giovanni30",
+        "skills": {
+            "GCP": 4,
+            "Unity": 2,
+            "Spring Boot": 4,
+            "TensorFlow": 5,
+            "PHP": 2,
+            "Machine Learning": 1,
+            "Django": 5
+        }
+    },
+    {
+        "emp_id": 30,
+        "name": "Fatima83",
+        "skills": {
+            "GCP": 1,
+            "PyTorch": 4,
+            "PHP": 2,
+            "Azure": 3,
+            "Go": 4,
+            "MongoDB": 2
+        }
+    },
+    {
+        "emp_id": 31,
+        "name": "Fatima62",
+        "skills": {
+            "Java": 3,
+            "Docker": 3,
+            "TensorFlow": 3,
+            "CSS": 2,
+            "PyTorch": 3,
+            "Unity": 1,
+            "Python": 5,
+            "Flask": 2,
+            "Machine Learning": 4
+        }
+    },
+    {
+        "emp_id": 32,
+        "name": "Jung87",
+        "skills": {
+            "JavaScript": 2,
+            "GCP": 4,
+            "Azure": 4,
+            "Swift": 2,
+            "MongoDB": 5,
+            "PHP": 4
+        }
+    },
+    {
+        "emp_id": 33,
+        "name": "Xia73",
+        "skills": {
+            "TensorFlow": 5,
+            "Python": 5,
+            "JavaScript": 3,
+            "SQL": 4,
+            "Azure": 5
+        }
+    },
+    {
+        "emp_id": 34,
+        "name": "Sami10",
+        "skills": {
+            "PHP": 2,
+            "Swift": 1,
+            "Django": 3,
+            "CSS": 1,
+            "GCP": 1,
+            "TensorFlow": 5,
+            "Node.js": 2
+        }
+    },
+    {
+        "emp_id": 35,
+        "name": "Fatima64",
+        "skills": {
+            "Flask": 2,
+            "C++": 5,
+            "Node.js": 5,
+            "Python": 4,
+            "Go": 1,
+            "Angular": 1,
+            "Java": 1,
+            "AWS": 3
+        }
+    },
+    {
+        "emp_id": 36,
+        "name": "Devansh14",
+        "skills": {
+            "Python": 2,
+            "MongoDB": 5,
+            "Flask": 5,
+            "Spring Boot": 1,
+            "Go": 3,
+            "Git": 1,
+            "Node.js": 5
+        }
+    },
+    {
+        "emp_id": 37,
+        "name": "Zoe44",
+        "skills": {
+            "SQL": 1,
+            "C++": 3,
+            "Go": 5,
+            "JavaScript": 1,
+            "Java": 5
+        }
+    },
+    {
+        "emp_id": 38,
+        "name": "Yasmin90",
+        "skills": {
+            "Flask": 5,
+            "PyTorch": 4,
+            "PHP": 2,
+            "HTML": 2,
+            "Django": 2
+        }
+    },
+    {
+        "emp_id": 39,
+        "name": "Alma10",
+        "skills": {
+            "Azure": 1,
+            "Go": 5,
+            "Node.js": 5,
+            "AWS": 5,
+            "Java": 4,
+            "C++": 2,
+            "PHP": 1
+        }
+    },
+    {
+        "emp_id": 40,
+        "name": "Hiroshi21",
+        "skills": {
+            "Ruby": 5,
+            "HTML": 2,
+            "Python": 3,
+            "TensorFlow": 2,
+            "Spring Boot": 3,
+            "SQL": 4
+        }
+    },
+    {
+        "emp_id": 41,
+        "name": "Anwar72",
+        "skills": {
+            "GCP": 3,
+            "CSS": 4,
+            "TensorFlow": 4,
+            "PyTorch": 2,
+            "Node.js": 4,
+            "SQL": 3
+        }
+    },
+    {
+        "emp_id": 42,
+        "name": "Vikram68",
+        "skills": {
+            "Git": 2,
+            "CSS": 1,
+            "Swift": 3,
+            "PHP": 4,
+            "GCP": 1
+        }
+    },
+    {
+        "emp_id": 43,
+        "name": "Kamil68",
+        "skills": {
+            "C++": 3,
+            "Azure": 2,
+            "Kubernetes": 2,
+            "Spring Boot": 3,
+            "AWS": 4,
+            "Swift": 5
+        }
+    },
+    {
+        "emp_id": 44,
+        "name": "Kavita66",
+        "skills": {
+            "Java": 1,
+            "Unity": 5,
+            "PHP": 5,
+            "CSS": 4,
+            "Angular": 3,
+            "SQL": 1
+        }
+    },
+    {
+        "emp_id": 45,
+        "name": "Kavita53",
+        "skills": {
+            "Azure": 2,
+            "HTML": 3,
+            "Angular": 4,
+            "Flask": 2,
+            "JavaScript": 2,
+            "Java": 4
+        }
+    },
+    {
+        "emp_id": 46,
+        "name": "Emiko100",
+        "skills": {
+            "React": 2,
+            "CSS": 4,
+            "SQL": 3,
+            "Git": 2,
+            "Node.js": 1,
+            "Swift": 1
+        }
+    },
+    {
+        "emp_id": 47,
+        "name": "Nia39",
+        "skills": {
+            "Git": 5,
+            "Java": 2,
+            "GCP": 2,
+            "Django": 2,
+            "Kubernetes": 5,
+            "React": 3,
+            "MongoDB": 3
+        }
+    },
+    {
+        "emp_id": 48,
+        "name": "Zain58",
+        "skills": {
+            "Unity": 4,
+            "Flask": 1,
+            "Java": 5,
+            "Azure": 3,
+            "Go": 4,
+            "MongoDB": 1,
+            "GCP": 5
+        }
+    },
+    {
+        "emp_id": 49,
+        "name": "Cheng19",
+        "skills": {
+            "Spring Boot": 3,
+            "Angular": 3,
+            "C++": 4,
+            "Python": 4,
+            "Azure": 3,
+            "SQL": 2,
+            "Kubernetes": 3
+        }
+    },
+    {
+        "emp_id": 50,
+        "name": "Banu36",
+        "skills": {
+            "PyTorch": 1,
+            "PHP": 2,
+            "Angular": 1,
+            "Flask": 5
+        }
+    },
+    {
+        "emp_id": 51,
+        "name": "Wang59",
+        "skills": {
+            "Machine Learning": 3,
+            "Python": 1,
+            "Git": 3,
+            "MongoDB": 2,
+            "PyTorch": 3,
+            "Django": 2,
+            "Flask": 2
+        }
+    },
+    {
+        "emp_id": 52,
+        "name": "Emiko21",
+        "skills": {
+            "CSS": 5,
+            "SQL": 5,
+            "Ruby": 4,
+            "Swift": 3,
+            "Spring Boot": 3
+        }
+    },
+    {
+        "emp_id": 53,
+        "name": "Ewa3",
+        "skills": {
+            "CSS": 1,
+            "Angular": 3,
+            "Kubernetes": 3,
+            "PyTorch": 3,
+            "TensorFlow": 5,
+            "React": 1,
+            "JavaScript": 3,
+            "HTML": 2,
+            "Django": 1
+        }
+    },
+    {
+        "emp_id": 54,
+        "name": "Emiko55",
+        "skills": {
+            "JavaScript": 3,
+            "Unity": 1,
+            "Spring Boot": 3,
+            "GCP": 2,
+            "PyTorch": 1,
+            "HTML": 3,
+            "SQL": 2
+        }
+    },
+    {
+        "emp_id": 55,
+        "name": "Devansh94",
+        "skills": {
+            "Python": 2,
+            "CSS": 5,
+            "Java": 2,
+            "Django": 5,
+            "Go": 1
+        }
+    },
+    {
+        "emp_id": 56,
+        "name": "Emiko7",
+        "skills": {
+            "Flask": 2,
+            "Docker": 2,
+            "Node.js": 5,
+            "Django": 1,
+            "Unity": 1,
+            "CSS": 4,
+            "MongoDB": 5,
+            "Git": 2
+        }
+    },
+    {
+        "emp_id": 57,
+        "name": "Rani26",
+        "skills": {
+            "Swift": 4,
+            "Azure": 4,
+            "Node.js": 2,
+            "TensorFlow": 2,
+            "Kubernetes": 4,
+            "Angular": 2,
+            "SQL": 3
+        }
+    },
+    {
+        "emp_id": 58,
+        "name": "Carlos13",
+        "skills": {
+            "JavaScript": 4,
+            "Ruby": 5,
+            "Swift": 4,
+            "TensorFlow": 4,
+            "Node.js": 5
+        }
+    },
+    {
+        "emp_id": 59,
+        "name": "Tariq58",
+        "skills": {
+            "Go": 5,
+            "SQL": 2,
+            "CSS": 2,
+            "Django": 5,
+            "HTML": 1,
+            "JavaScript": 4,
+            "PHP": 5,
+            "Docker": 2,
+            "Java": 5
+        }
+    },
+    {
+        "emp_id": 60,
+        "name": "Dinesh72",
+        "skills": {
+            "Python": 5,
+            "Docker": 2,
+            "PHP": 5,
+            "PyTorch": 4,
+            "Kubernetes": 4,
+            "Angular": 5
+        }
+    },
+    {
+        "emp_id": 61,
+        "name": "Xia35",
+        "skills": {
+            "JavaScript": 3,
+            "C++": 5,
+            "MongoDB": 1,
+            "SQL": 2,
+            "Kubernetes": 4,
+            "Flask": 3,
+            "Go": 5
+        }
+    },
+    {
+        "emp_id": 62,
+        "name": "Qasim10",
+        "skills": {
+            "GCP": 1,
+            "Spring Boot": 2,
+            "Docker": 1,
+            "Go": 4
+        }
+    },
+    {
+        "emp_id": 63,
+        "name": "Lukas55",
+        "skills": {
+            "CSS": 3,
+            "Machine Learning": 4,
+            "GCP": 1,
+            "Django": 5,
+            "Java": 3,
+            "Angular": 1,
+            "SQL": 5,
+            "Git": 2
+        }
+    },
+    {
+        "emp_id": 64,
+        "name": "Fatima45",
+        "skills": {
+            "HTML": 2,
+            "Flask": 2,
+            "TensorFlow": 2,
+            "Go": 4,
+            "Ruby": 5,
+            "C++": 4,
+            "Java": 5
+        }
+    },
+    {
+        "emp_id": 65,
+        "name": "Nia87",
+        "skills": {
+            "React": 3,
+            "Node.js": 5,
+            "MongoDB": 4,
+            "Ruby": 2,
+            "Unity": 5,
+            "Django": 3
+        }
+    },
+    {
+        "emp_id": 66,
+        "name": "Liu22",
+        "skills": {
+            "Git": 2,
+            "Unity": 4,
+            "HTML": 2,
+            "Ruby": 2,
+            "AWS": 3,
+            "Node.js": 3,
+            "MongoDB": 4
+        }
+    },
+    {
+        "emp_id": 67,
+        "name": "Xia62",
+        "skills": {
+            "CSS": 4,
+            "Go": 4,
+            "TensorFlow": 4,
+            "PHP": 1,
+            "AWS": 2,
+            "Unity": 1
+        }
+    },
+    {
+        "emp_id": 68,
+        "name": "Cheng35",
+        "skills": {
+            "Python": 1,
+            "Go": 3,
+            "Git": 1,
+            "JavaScript": 4,
+            "PyTorch": 3,
+            "Kubernetes": 3,
+            "React": 3,
+            "AWS": 2
+        }
+    },
+    {
+        "emp_id": 69,
+        "name": "Banu65",
+        "skills": {
+            "React": 5,
+            "AWS": 1,
+            "Java": 3,
+            "Node.js": 2,
+            "GCP": 4,
+            "Angular": 5,
+            "MongoDB": 4,
+            "Spring Boot": 1
+        }
+    },
+    {
+        "emp_id": 70,
+        "name": "Farida6",
+        "skills": {
+            "Angular": 2,
+            "Flask": 4,
+            "Spring Boot": 2,
+            "GCP": 2,
+            "Unity": 3,
+            "Django": 2
+        }
+    },
+    {
+        "emp_id": 71,
+        "name": "Yara70",
+        "skills": {
+            "Java": 5,
+            "CSS": 1,
+            "TensorFlow": 1,
+            "GCP": 5,
+            "Swift": 3
+        }
+    },
+    {
+        "emp_id": 72,
+        "name": "Alma39",
+        "skills": {
+            "Python": 3,
+            "Go": 5,
+            "Machine Learning": 5,
+            "MongoDB": 3,
+            "Swift": 2,
+            "Kubernetes": 4,
+            "Java": 1
+        }
+    },
+    {
+        "emp_id": 73,
+        "name": "Carlos98",
+        "skills": {
+            "GCP": 2,
+            "Unity": 5,
+            "MongoDB": 3,
+            "Swift": 5,
+            "PyTorch": 2
+        }
+    },
+    {
+        "emp_id": 74,
+        "name": "Liu85",
+        "skills": {
+            "PHP": 4,
+            "Machine Learning": 3,
+            "PyTorch": 5,
+            "Go": 1,
+            "Ruby": 3,
+            "TensorFlow": 4
+        }
+    },
+    {
+        "emp_id": 75,
+        "name": "Qasim89",
+        "skills": {
+            "Azure": 1,
+            "PyTorch": 2,
+            "Go": 3,
+            "Java": 3,
+            "Swift": 5,
+            "Git": 5
+        }
+    },
+    {
+        "emp_id": 76,
+        "name": "Priya6",
+        "skills": {
+            "JavaScript": 4,
+            "Docker": 4,
+            "Go": 1,
+            "React": 1,
+            "SQL": 2,
+            "Unity": 1,
+            "Django": 1,
+            "Git": 1
+        }
+    },
+    {
+        "emp_id": 77,
+        "name": "Ursula92",
+        "skills": {
+            "SQL": 2,
+            "Machine Learning": 2,
+            "PyTorch": 4,
+            "PHP": 4,
+            "TensorFlow": 1,
+            "Git": 4,
+            "Swift": 1
+        }
+    },
+    {
+        "emp_id": 78,
+        "name": "Ravi77",
+        "skills": {
+            "Unity": 3,
+            "HTML": 4,
+            "Flask": 5,
+            "Ruby": 1,
+            "Swift": 1,
+            "React": 3,
+            "SQL": 2,
+            "Django": 1
+        }
+    },
+    {
+        "emp_id": 79,
+        "name": "Carlos66",
+        "skills": {
+            "React": 3,
+            "Docker": 4,
+            "Kubernetes": 5,
+            "Machine Learning": 4,
+            "JavaScript": 5,
+            "TensorFlow": 1,
+            "MongoDB": 5,
+            "SQL": 4,
+            "Node.js": 5
+        }
+    },
+    {
+        "emp_id": 80,
+        "name": "Giovanni81",
+        "skills": {
+            "Docker": 2,
+            "MongoDB": 1,
+            "Python": 3,
+            "JavaScript": 1,
+            "Swift": 5,
+            "Angular": 3,
+            "Machine Learning": 2,
+            "Java": 1
+        }
+    },
+    {
+        "emp_id": 81,
+        "name": "Giovanni43",
+        "skills": {
+            "Swift": 5,
+            "Kubernetes": 2,
+            "Azure": 3,
+            "AWS": 1,
+            "Go": 4,
+            "Machine Learning": 1,
+            "C++": 1,
+            "GCP": 5
+        }
+    },
+    {
+        "emp_id": 82,
+        "name": "Cheng53",
+        "skills": {
+            "Java": 4,
+            "Unity": 3,
+            "Spring Boot": 2,
+            "Ruby": 4,
+            "Angular": 2
+        }
+    },
+    {
+        "emp_id": 83,
+        "name": "Ingrid59",
+        "skills": {
+            "Ruby": 4,
+            "Django": 2,
+            "Node.js": 4,
+            "React": 1,
+            "Git": 2,
+            "PyTorch": 5
+        }
+    },
+    {
+        "emp_id": 84,
+        "name": "Ursula40",
+        "skills": {
+            "Swift": 4,
+            "PyTorch": 3,
+            "Machine Learning": 1,
+            "Azure": 5,
+            "Python": 1,
+            "Flask": 3
+        }
+    },
+    {
+        "emp_id": 85,
+        "name": "Yasmin73",
+        "skills": {
+            "Python": 5,
+            "Kubernetes": 5,
+            "Angular": 5,
+            "HTML": 1,
+            "AWS": 3,
+            "CSS": 3,
+            "Git": 2,
+            "PHP": 4
+        }
+    },
+    {
+        "emp_id": 86,
+        "name": "Priya88",
+        "skills": {
+            "Unity": 3,
+            "JavaScript": 1,
+            "Kubernetes": 5,
+            "Go": 2,
+            "Ruby": 5,
+            "PHP": 4,
+            "Machine Learning": 1,
+            "React": 5,
+            "Django": 5,
+            "Swift": 1
+        }
+    },
+    {
+        "emp_id": 87,
+        "name": "Zain38",
+        "skills": {
+            "Django": 5,
+            "Swift": 2,
+            "PyTorch": 4,
+            "Git": 2,
+            "SQL": 5,
+            "HTML": 4,
+            "CSS": 5
+        }
+    },
+    {
+        "emp_id": 88,
+        "name": "Hiroshi26",
+        "skills": {
+            "CSS": 1,
+            "React": 1,
+            "Django": 1,
+            "AWS": 3
+        }
+    },
+    {
+        "emp_id": 89,
+        "name": "Javier14",
+        "skills": {
+            "Unity": 5,
+            "React": 4,
+            "Git": 3,
+            "MongoDB": 4,
+            "GCP": 1,
+            "Python": 4
+        }
+    },
+    {
+        "emp_id": 90,
+        "name": "Hiroshi83",
+        "skills": {
+            "Machine Learning": 5,
+            "Docker": 3,
+            "Python": 1
+        }
+    },
+    {
+        "emp_id": 91,
+        "name": "Fatima42",
+        "skills": {
+            "Swift": 2,
+            "Python": 4,
+            "Git": 4,
+            "Java": 3,
+            "Go": 2,
+            "Node.js": 3
+        }
+    },
+    {
+        "emp_id": 92,
+        "name": "Hassan23",
+        "skills": {
+            "GCP": 5,
+            "AWS": 4,
+            "SQL": 2,
+            "Unity": 3,
+            "HTML": 2,
+            "Spring Boot": 2,
+            "Java": 1
+        }
+    },
+    {
+        "emp_id": 93,
+        "name": "Kavita82",
+        "skills": {
+            "GCP": 1,
+            "PHP": 2,
+            "JavaScript": 1,
+            "TensorFlow": 4,
+            "Java": 4,
+            "Machine Learning": 4,
+            "Swift": 1
+        }
+    },
+    {
+        "emp_id": 94,
+        "name": "Zain46",
+        "skills": {
+            "Unity": 1,
+            "Kubernetes": 5,
+            "Node.js": 1,
+            "Django": 5,
+            "C++": 5,
+            "Python": 5,
+            "Ruby": 4
+        }
+    },
+    {
+        "emp_id": 95,
+        "name": "Ravi62",
+        "skills": {
+            "Machine Learning": 2,
+            "HTML": 4,
+            "JavaScript": 2,
+            "Azure": 4,
+            "React": 3,
+            "Flask": 2,
+            "PHP": 2,
+            "SQL": 5
+        }
+    },
+    {
+        "emp_id": 96,
+        "name": "Anwar59",
+        "skills": {
+            "C++": 1,
+            "React": 2,
+            "SQL": 5,
+            "JavaScript": 2,
+            "Unity": 4
+        }
+    },
+    {
+        "emp_id": 97,
+        "name": "Farida55",
+        "skills": {
+            "Flask": 4,
+            "Git": 1,
+            "Azure": 1,
+            "Ruby": 4,
+            "Machine Learning": 5,
+            "PyTorch": 3
+        }
+    },
+    {
+        "emp_id": 98,
+        "name": "Gita85",
+        "skills": {
+            "Machine Learning": 5,
+            "HTML": 4,
+            "Azure": 1,
+            "Python": 2,
+            "MongoDB": 5,
+            "C++": 1,
+            "Spring Boot": 3
+        }
+    },
+    {
+        "emp_id": 99,
+        "name": "Mei56",
+        "skills": {
+            "PHP": 1,
+            "Unity": 5,
+            "HTML": 2,
+            "GCP": 1,
+            "Angular": 1,
+            "Java": 4
+        }
+    },
+    {
+        "emp_id": 100,
+        "name": "Jung21",
+        "skills": {
+            "Java": 5,
+            "HTML": 1,
+            "Azure": 4,
+            "CSS": 1,
+            "Angular": 1,
+            "Kubernetes": 4,
+            "Docker": 5,
+            "PyTorch": 5
+        }
+    },
+    {
+        "emp_id": 101,
+        "name": "Emiko72",
+        "skills": {
+            "AWS": 2,
+            "Azure": 5,
+            "Swift": 3,
+            "MongoDB": 5
+        }
+    },
+    {
+        "emp_id": 102,
+        "name": "Javier42",
+        "skills": {
+            "Go": 5,
+            "C++": 4,
+            "Machine Learning": 5,
+            "HTML": 4,
+            "Angular": 4,
+            "Django": 3,
+            "Kubernetes": 1,
+            "Docker": 5
+        }
+    },
+    {
+        "emp_id": 103,
+        "name": "Ingrid60",
+        "skills": {
+            "C++": 5,
+            "Go": 5,
+            "Git": 4,
+            "Kubernetes": 5,
+            "PHP": 1,
+            "CSS": 4
+        }
+    },
+    {
+        "emp_id": 104,
+        "name": "Aisha53",
+        "skills": {
+            "PHP": 2,
+            "Machine Learning": 1,
+            "Flask": 2,
+            "Kubernetes": 1,
+            "HTML": 2,
+            "MongoDB": 2,
+            "Node.js": 2,
+            "Java": 2,
+            "Git": 2
+        }
+    },
+    {
+        "emp_id": 105,
+        "name": "Pablo91",
+        "skills": {
+            "JavaScript": 4,
+            "Go": 1,
+            "PHP": 2,
+            "React": 5,
+            "Angular": 5,
+            "Flask": 5
+        }
+    },
+    {
+        "emp_id": 106,
+        "name": "Sofia44",
+        "skills": {
+            "PHP": 5,
+            "Git": 3,
+            "Node.js": 5,
+            "HTML": 1,
+            "Machine Learning": 1,
+            "Python": 3,
+            "TensorFlow": 4
+        }
+    },
+    {
+        "emp_id": 107,
+        "name": "Nia9",
+        "skills": {
+            "GCP": 3,
+            "Ruby": 1,
+            "Spring Boot": 5,
+            "Swift": 2,
+            "Java": 5,
+            "React": 4
+        }
+    },
+    {
+        "emp_id": 108,
+        "name": "Fatima98",
+        "skills": {
+            "Go": 5,
+            "Swift": 1,
+            "HTML": 3,
+            "Java": 3,
+            "Azure": 4,
+            "Git": 1
+        }
+    },
+    {
+        "emp_id": 109,
+        "name": "Emiko84",
+        "skills": {
+            "MongoDB": 2,
+            "PyTorch": 3,
+            "Node.js": 3,
+            "Git": 2,
+            "GCP": 4,
+            "Unity": 2,
+            "C++": 4,
+            "SQL": 1
+        }
+    },
+    {
+        "emp_id": 110,
+        "name": "Nia17",
+        "skills": {
+            "Docker": 3,
+            "Swift": 1,
+            "GCP": 4,
+            "Ruby": 2,
+            "Unity": 3,
+            "Azure": 5,
+            "Git": 5
+        }
+    },
+    {
+        "emp_id": 111,
+        "name": "Dinesh99",
+        "skills": {
+            "Azure": 5,
+            "Swift": 2,
+            "Unity": 4,
+            "HTML": 2,
+            "Flask": 3
+        }
+    },
+    {
+        "emp_id": 112,
+        "name": "Chika44",
+        "skills": {
+            "GCP": 2,
+            "Django": 1,
+            "Azure": 4,
+            "SQL": 1,
+            "MongoDB": 5,
+            "Git": 3,
+            "Java": 2,
+            "C++": 2,
+            "Node.js": 3
+        }
+    },
+    {
+        "emp_id": 113,
+        "name": "Olga28",
+        "skills": {
+            "TensorFlow": 2,
+            "Docker": 3,
+            "JavaScript": 3,
+            "MongoDB": 4,
+            "PHP": 4,
+            "GCP": 4,
+            "C++": 4,
+            "CSS": 2
+        }
+    },
+    {
+        "emp_id": 114,
+        "name": "Olga96",
+        "skills": {
+            "CSS": 3,
+            "Docker": 1,
+            "HTML": 1,
+            "Swift": 5,
+            "Ruby": 3
+        }
+    },
+    {
+        "emp_id": 115,
+        "name": "Chika90",
+        "skills": {
+            "Java": 3,
+            "Node.js": 2,
+            "Git": 2,
+            "React": 5,
+            "Go": 3,
+            "C++": 1,
+            "SQL": 1,
+            "MongoDB": 4
+        }
+    },
+    {
+        "emp_id": 116,
+        "name": "Ravi97",
+        "skills": {
+            "Go": 3,
+            "CSS": 5,
+            "PyTorch": 5,
+            "Ruby": 2,
+            "Angular": 3
+        }
+    },
+    {
+        "emp_id": 117,
+        "name": "Sami18",
+        "skills": {
+            "Python": 1,
+            "TensorFlow": 5,
+            "Azure": 5,
+            "Machine Learning": 5,
+            "HTML": 2,
+            "Node.js": 4
+        }
+    },
+    {
+        "emp_id": 118,
+        "name": "Sofia75",
+        "skills": {
+            "Azure": 1,
+            "Java": 3,
+            "SQL": 2,
+            "Ruby": 3,
+            "PyTorch": 5,
+            "HTML": 1
+        }
+    },
+    {
+        "emp_id": 119,
+        "name": "Ursula67",
+        "skills": {
+            "JavaScript": 4,
+            "AWS": 2,
+            "React": 2,
+            "Spring Boot": 4,
+            "PyTorch": 3
+        }
+    },
+    {
+        "emp_id": 120,
+        "name": "Carlos6",
+        "skills": {
+            "React": 2,
+            "HTML": 3,
+            "Git": 3,
+            "PyTorch": 3,
+            "PHP": 5,
+            "Django": 3,
+            "Flask": 3
+        }
+    },
+    {
+        "emp_id": 121,
+        "name": "Jung48",
+        "skills": {
+            "Docker": 2,
+            "Django": 2,
+            "C++": 3,
+            "Node.js": 1,
+            "GCP": 1,
+            "Spring Boot": 5,
+            "Angular": 5,
+            "PyTorch": 2
+        }
+    },
+    {
+        "emp_id": 122,
+        "name": "Giovanni81",
+        "skills": {
+            "Docker": 4,
+            "Ruby": 4,
+            "Machine Learning": 5,
+            "Flask": 1,
+            "MongoDB": 1
+        }
+    },
+    {
+        "emp_id": 123,
+        "name": "Nashit20",
+        "skills": {
+            "Java": 5,
+            "GCP": 2,
+            "CSS": 3,
+            "PHP": 5,
+            "SQL": 1
+        }
+    },
+    {
+        "emp_id": 124,
+        "name": "Qasim74",
+        "skills": {
+            "TensorFlow": 5,
+            "Unity": 4,
+            "PyTorch": 3,
+            "Angular": 2
+        }
+    },
+    {
+        "emp_id": 125,
+        "name": "Javier43",
+        "skills": {
+            "SQL": 5,
+            "JavaScript": 3,
+            "Spring Boot": 3,
+            "AWS": 1,
+            "PyTorch": 5,
+            "Azure": 3,
+            "React": 3
+        }
+    },
+    {
+        "emp_id": 126,
+        "name": "Mei71",
+        "skills": {
+            "Ruby": 5,
+            "Docker": 4,
+            "PHP": 2,
+            "HTML": 1,
+            "Java": 2,
+            "JavaScript": 3
+        }
+    },
+    {
+        "emp_id": 127,
+        "name": "Jung100",
+        "skills": {
+            "Docker": 3,
+            "Ruby": 1,
+            "Kubernetes": 3,
+            "Java": 4,
+            "Flask": 1,
+            "Angular": 2,
+            "Go": 2,
+            "Django": 2,
+            "Python": 5
+        }
+    },
+    {
+        "emp_id": 128,
+        "name": "Aisha4",
+        "skills": {
+            "PHP": 1,
+            "Machine Learning": 2,
+            "Docker": 2,
+            "Node.js": 4,
+            "C++": 2
+        }
+    },
+    {
+        "emp_id": 129,
+        "name": "Qasim88",
+        "skills": {
+            "GCP": 4,
+            "Azure": 2,
+            "AWS": 5,
+            "Go": 5,
+            "Java": 4,
+            "CSS": 1,
+            "Angular": 1,
+            "MongoDB": 4,
+            "Ruby": 4
+        }
+    },
+    {
+        "emp_id": 130,
+        "name": "Vikram1",
+        "skills": {
+            "Spring Boot": 2,
+            "Java": 5,
+            "Angular": 4,
+            "Ruby": 3,
+            "PHP": 4,
+            "GCP": 3
+        }
+    },
+    {
+        "emp_id": 131,
+        "name": "Lukas97",
+        "skills": {
+            "Node.js": 4,
+            "Spring Boot": 4,
+            "PHP": 2,
+            "React": 1,
+            "Angular": 3
+        }
+    },
+    {
+        "emp_id": 132,
+        "name": "Zain53",
+        "skills": {
+            "Swift": 4,
+            "Java": 1,
+            "SQL": 2,
+            "Azure": 2
+        }
+    },
+    {
+        "emp_id": 133,
+        "name": "Vikram34",
+        "skills": {
+            "SQL": 1,
+            "MongoDB": 2,
+            "Kubernetes": 4,
+            "C++": 3,
+            "Azure": 2
+        }
+    },
+    {
+        "emp_id": 134,
+        "name": "Wang13",
+        "skills": {
+            "Go": 4,
+            "Ruby": 2,
+            "Django": 2,
+            "Flask": 4,
+            "Docker": 2,
+            "Unity": 4,
+            "Machine Learning": 1
+        }
+    },
+    {
+        "emp_id": 135,
+        "name": "Sofia44",
+        "skills": {
+            "CSS": 1,
+            "React": 3,
+            "HTML": 1,
+            "C++": 5,
+            "MongoDB": 2,
+            "Kubernetes": 4,
+            "AWS": 1,
+            "Swift": 4
+        }
+    },
+    {
+        "emp_id": 136,
+        "name": "Carlos80",
+        "skills": {
+            "Flask": 1,
+            "Python": 4,
+            "PyTorch": 4,
+            "Spring Boot": 1,
+            "React": 1,
+            "Docker": 2,
+            "Node.js": 4,
+            "C++": 3,
+            "AWS": 3
+        }
+    },
+    {
+        "emp_id": 137,
+        "name": "Devansh84",
+        "skills": {
+            "Java": 4,
+            "SQL": 2,
+            "MongoDB": 3,
+            "JavaScript": 2
+        }
+    },
+    {
+        "emp_id": 138,
+        "name": "Rani86",
+        "skills": {
+            "Angular": 3,
+            "C++": 1,
+            "Java": 1,
+            "HTML": 1,
+            "Docker": 1,
+            "PHP": 5,
+            "React": 3,
+            "AWS": 1
+        }
+    },
+    {
+        "emp_id": 139,
+        "name": "Kavita32",
+        "skills": {
+            "Swift": 1,
+            "Machine Learning": 5,
+            "Azure": 4,
+            "Angular": 2,
+            "Node.js": 5,
+            "Flask": 3,
+            "AWS": 2,
+            "React": 5,
+            "Git": 4
+        }
+    },
+    {
+        "emp_id": 140,
+        "name": "Hassan58",
+        "skills": {
+            "PyTorch": 1,
+            "MongoDB": 4,
+            "Ruby": 5,
+            "Azure": 1,
+            "Spring Boot": 4
+        }
+    },
+    {
+        "emp_id": 141,
+        "name": "Mei66",
+        "skills": {
+            "Swift": 5,
+            "Spring Boot": 2,
+            "Azure": 1,
+            "PyTorch": 5
+        }
+    },
+    {
+        "emp_id": 142,
+        "name": "Sofia58",
+        "skills": {
+            "AWS": 3,
+            "Java": 5,
+            "PHP": 1,
+            "Python": 2,
+            "Django": 1,
+            "Ruby": 1,
+            "GCP": 5,
+            "Node.js": 3,
+            "Swift": 1
+        }
+    },
+    {
+        "emp_id": 143,
+        "name": "Pablo68",
+        "skills": {
+            "Flask": 2,
+            "Django": 2,
+            "Machine Learning": 1,
+            "Java": 5,
+            "SQL": 1
+        }
+    },
+    {
+        "emp_id": 144,
+        "name": "Vikram77",
+        "skills": {
+            "Angular": 2,
+            "Swift": 1,
+            "GCP": 1,
+            "Unity": 2
+        }
+    },
+    {
+        "emp_id": 145,
+        "name": "Denise96",
+        "skills": {
+            "Node.js": 4,
+            "React": 5,
+            "Kubernetes": 1,
+            "Flask": 3,
+            "Django": 3,
+            "Unity": 1,
+            "HTML": 2
+        }
+    },
+    {
+        "emp_id": 146,
+        "name": "Ursula27",
+        "skills": {
+            "React": 2,
+            "Unity": 4,
+            "Node.js": 4,
+            "Django": 3,
+            "MongoDB": 2,
+            "Swift": 1,
+            "AWS": 5
+        }
+    },
+    {
+        "emp_id": 147,
+        "name": "Emiko2",
+        "skills": {
+            "React": 3,
+            "Go": 3,
+            "MongoDB": 2,
+            "Java": 1
+        }
+    },
+    {
+        "emp_id": 148,
+        "name": "Gita59",
+        "skills": {
+            "Angular": 3,
+            "JavaScript": 3,
+            "Azure": 4,
+            "Spring Boot": 4,
+            "Flask": 3,
+            "Ruby": 5,
+            "Java": 2
+        }
+    },
+    {
+        "emp_id": 149,
+        "name": "Olga13",
+        "skills": {
+            "Git": 2,
+            "Azure": 4,
+            "AWS": 2,
+            "Kubernetes": 2,
+            "Machine Learning": 5,
+            "CSS": 5,
+            "Java": 2
+        }
+    },
+    {
+        "emp_id": 150,
+        "name": "Dinesh82",
+        "skills": {
+            "Azure": 2,
+            "PHP": 2,
+            "Unity": 5,
+            "PyTorch": 3,
+            "SQL": 4,
+            "Go": 2,
+            "Docker": 3,
+            "HTML": 2,
+            "Spring Boot": 4,
+            "Swift": 4
+        }
+    },
+    {
+        "emp_id": 151,
+        "name": "Kamil86",
+        "skills": {
+            "Azure": 2,
+            "GCP": 1,
+            "Django": 4,
+            "Unity": 3,
+            "Python": 2,
+            "Go": 4,
+            "Machine Learning": 2
+        }
+    },
+    {
+        "emp_id": 152,
+        "name": "Tariq82",
+        "skills": {
+            "SQL": 4,
+            "Flask": 3,
+            "Django": 4,
+            "Unity": 4,
+            "Git": 5,
+            "Machine Learning": 2,
+            "Swift": 3,
+            "React": 5
+        }
+    },
+    {
+        "emp_id": 153,
+        "name": "Kavita62",
+        "skills": {
+            "Spring Boot": 5,
+            "Azure": 4,
+            "Flask": 4,
+            "CSS": 1,
+            "C++": 3,
+            "JavaScript": 4
+        }
+    },
+    {
+        "emp_id": 154,
+        "name": "Devansh63",
+        "skills": {
+            "React": 5,
+            "Ruby": 1,
+            "Angular": 1,
+            "TensorFlow": 5
+        }
+    },
+    {
+        "emp_id": 155,
+        "name": "Ibrahim36",
+        "skills": {
+            "Docker": 4,
+            "Node.js": 2,
+            "Unity": 2,
+            "CSS": 5,
+            "MongoDB": 3,
+            "Git": 5
+        }
+    },
+    {
+        "emp_id": 156,
+        "name": "Chika72",
+        "skills": {
+            "C++": 4,
+            "Git": 2,
+            "Azure": 1,
+            "Machine Learning": 3,
+            "Django": 1,
+            "TensorFlow": 5
+        }
+    },
+    {
+        "emp_id": 157,
+        "name": "Anwar14",
+        "skills": {
+            "JavaScript": 2,
+            "Kubernetes": 5,
+            "Django": 5,
+            "Docker": 2
+        }
+    },
+    {
+        "emp_id": 158,
+        "name": "Carlos68",
+        "skills": {
+            "Java": 5,
+            "MongoDB": 3,
+            "PHP": 4,
+            "SQL": 4,
+            "Python": 1,
+            "JavaScript": 4,
+            "Git": 5
+        }
+    },
+    {
+        "emp_id": 159,
+        "name": "Tariq16",
+        "skills": {
+            "PyTorch": 1,
+            "Java": 4,
+            "Angular": 5,
+            "GCP": 1,
+            "CSS": 2,
+            "Machine Learning": 5,
+            "HTML": 2
+        }
+    },
+    {
+        "emp_id": 160,
+        "name": "Cheng6",
+        "skills": {
+            "Java": 2,
+            "Flask": 5,
+            "Spring Boot": 5,
+            "Swift": 2,
+            "CSS": 4,
+            "HTML": 2
+        }
+    },
+    {
+        "emp_id": 161,
+        "name": "Qasim99",
+        "skills": {
+            "Angular": 3,
+            "Git": 1,
+            "JavaScript": 4,
+            "CSS": 4,
+            "Azure": 5,
+            "TensorFlow": 5,
+            "Unity": 2
+        }
+    },
+    {
+        "emp_id": 162,
+        "name": "Yara1",
+        "skills": {
+            "Azure": 4,
+            "Python": 2,
+            "Angular": 3,
+            "Node.js": 3,
+            "Unity": 5,
+            "Swift": 1
+        }
+    },
+    {
+        "emp_id": 163,
+        "name": "Wang3",
+        "skills": {
+            "GCP": 1,
+            "Git": 5,
+            "C++": 5,
+            "MongoDB": 3,
+            "Unity": 5,
+            "Swift": 3,
+            "React": 1,
+            "Java": 5
+        }
+    },
+    {
+        "emp_id": 164,
+        "name": "Zoe48",
+        "skills": {
+            "MongoDB": 3,
+            "Machine Learning": 4,
+            "Unity": 1,
+            "CSS": 1,
+            "GCP": 1,
+            "Swift": 1,
+            "Angular": 3
+        }
+    },
+    {
+        "emp_id": 165,
+        "name": "Qasim59",
+        "skills": {
+            "Docker": 3,
+            "HTML": 4,
+            "GCP": 2,
+            "Go": 4,
+            "React": 1,
+            "PyTorch": 5,
+            "Node.js": 1,
+            "C++": 3,
+            "Kubernetes": 5,
+            "Unity": 3
+        }
+    },
+    {
+        "emp_id": 166,
+        "name": "Dinesh48",
+        "skills": {
+            "MongoDB": 1,
+            "Kubernetes": 1,
+            "Django": 5,
+            "React": 5,
+            "SQL": 2,
+            "PHP": 5,
+            "Docker": 5
+        }
+    },
+    {
+        "emp_id": 167,
+        "name": "Yara25",
+        "skills": {
+            "JavaScript": 4,
+            "React": 3,
+            "HTML": 1,
+            "Flask": 1,
+            "SQL": 1,
+            "Node.js": 4
+        }
+    },
+    {
+        "emp_id": 168,
+        "name": "Rani29",
+        "skills": {
+            "Docker": 4,
+            "C++": 3,
+            "Unity": 2,
+            "Swift": 2,
+            "Flask": 3,
+            "JavaScript": 3,
+            "Django": 3,
+            "SQL": 2
+        }
+    },
+    {
+        "emp_id": 169,
+        "name": "Gita47",
+        "skills": {
+            "Node.js": 3,
+            "MongoDB": 1,
+            "Spring Boot": 3,
+            "Swift": 4,
+            "Machine Learning": 1
+        }
+    },
+    {
+        "emp_id": 170,
+        "name": "Yasmin78",
+        "skills": {
+            "Docker": 2,
+            "Angular": 4,
+            "PHP": 1,
+            "Python": 2,
+            "Swift": 5,
+            "Machine Learning": 4,
+            "PyTorch": 3
+        }
+    },
+    {
+        "emp_id": 171,
+        "name": "Denise92",
+        "skills": {
+            "Django": 4,
+            "TensorFlow": 5,
+            "Git": 1,
+            "GCP": 5,
+            "Angular": 2,
+            "Python": 1,
+            "Machine Learning": 4
+        }
+    },
+    {
+        "emp_id": 172,
+        "name": "Kamil48",
+        "skills": {
+            "SQL": 5,
+            "HTML": 4,
+            "Spring Boot": 2,
+            "Azure": 1,
+            "Swift": 4,
+            "Git": 5,
+            "CSS": 3
+        }
+    },
+    {
+        "emp_id": 173,
+        "name": "Devansh36",
+        "skills": {
+            "SQL": 2,
+            "MongoDB": 5,
+            "Kubernetes": 4,
+            "Flask": 2,
+            "Ruby": 4
+        }
+    },
+    {
+        "emp_id": 174,
+        "name": "Rani89",
+        "skills": {
+            "Unity": 1,
+            "Spring Boot": 1,
+            "HTML": 2,
+            "React": 1
+        }
+    },
+    {
+        "emp_id": 175,
+        "name": "Ravi10",
+        "skills": {
+            "Unity": 2,
+            "Azure": 1,
+            "Java": 1,
+            "Node.js": 5,
+            "Spring Boot": 5,
+            "Flask": 2,
+            "GCP": 3,
+            "Django": 3
+        }
+    },
+    {
+        "emp_id": 176,
+        "name": "Wang3",
+        "skills": {
+            "Swift": 4,
+            "Flask": 5,
+            "Azure": 1,
+            "Docker": 3,
+            "SQL": 5,
+            "Machine Learning": 4,
+            "GCP": 4
+        }
+    },
+    {
+        "emp_id": 177,
+        "name": "Rani91",
+        "skills": {
+            "Angular": 3,
+            "Unity": 2,
+            "Swift": 5,
+            "PHP": 4,
+            "Java": 3,
+            "C++": 5,
+            "Flask": 2,
+            "GCP": 4
+        }
+    },
+    {
+        "emp_id": 178,
+        "name": "Ewa37",
+        "skills": {
+            "JavaScript": 5,
+            "PyTorch": 2,
+            "Django": 4,
+            "TensorFlow": 3,
+            "C++": 1
+        }
+    },
+    {
+        "emp_id": 179,
+        "name": "Maya37",
+        "skills": {
+            "HTML": 3,
+            "AWS": 1,
+            "Node.js": 2,
+            "Spring Boot": 4,
+            "C++": 1,
+            "Swift": 5,
+            "SQL": 1,
+            "JavaScript": 4
+        }
+    },
+    {
+        "emp_id": 180,
+        "name": "Denise73",
+        "skills": {
+            "Swift": 2,
+            "Unity": 5,
+            "SQL": 4,
+            "CSS": 5,
+            "AWS": 5
+        }
+    },
+    {
+        "emp_id": 181,
+        "name": "Giovanni88",
+        "skills": {
+            "SQL": 3,
+            "Flask": 4,
+            "Python": 1,
+            "Kubernetes": 4,
+            "JavaScript": 4,
+            "Azure": 5,
+            "GCP": 5,
+            "C++": 1,
+            "MongoDB": 1,
+            "Docker": 5
+        }
+    },
+    {
+        "emp_id": 182,
+        "name": "Dinesh90",
+        "skills": {
+            "Django": 2,
+            "React": 3,
+            "AWS": 4,
+            "Azure": 3,
+            "CSS": 3,
+            "TensorFlow": 5,
+            "Angular": 3,
+            "Python": 2
+        }
+    },
+    {
+        "emp_id": 183,
+        "name": "Ursula86",
+        "skills": {
+            "Machine Learning": 5,
+            "TensorFlow": 2,
+            "C++": 3,
+            "Angular": 5,
+            "React": 3,
+            "Kubernetes": 5,
+            "Spring Boot": 2,
+            "AWS": 5,
+            "SQL": 3
+        }
+    },
+    {
+        "emp_id": 184,
+        "name": "Nashit79",
+        "skills": {
+            "Git": 3,
+            "Unity": 3,
+            "JavaScript": 4,
+            "PyTorch": 1,
+            "PHP": 2,
+            "Django": 5,
+            "Machine Learning": 3
+        }
+    },
+    {
+        "emp_id": 185,
+        "name": "Javier97",
+        "skills": {
+            "Go": 5,
+            "PHP": 3,
+            "CSS": 5,
+            "Swift": 1,
+            "Angular": 1,
+            "Git": 2,
+            "React": 5
+        }
+    },
+    {
+        "emp_id": 186,
+        "name": "Nia55",
+        "skills": {
+            "PHP": 1,
+            "JavaScript": 5,
+            "Spring Boot": 3,
+            "TensorFlow": 2,
+            "Flask": 4,
+            "SQL": 2
+        }
+    },
+    {
+        "emp_id": 187,
+        "name": "Nashit45",
+        "skills": {
+            "Python": 3,
+            "Node.js": 3,
+            "TensorFlow": 1,
+            "Go": 5,
+            "HTML": 1
+        }
+    },
+    {
+        "emp_id": 188,
+        "name": "Lukas71",
+        "skills": {
+            "GCP": 2,
+            "Kubernetes": 4,
+            "PyTorch": 5,
+            "Flask": 4,
+            "TensorFlow": 1,
+            "Unity": 3,
+            "React": 1
+        }
+    },
+    {
+        "emp_id": 189,
+        "name": "Devansh53",
+        "skills": {
+            "React": 4,
+            "Swift": 3,
+            "HTML": 3,
+            "SQL": 2,
+            "Flask": 1
+        }
+    },
+    {
+        "emp_id": 190,
+        "name": "Giovanni100",
+        "skills": {
+            "Python": 5,
+            "JavaScript": 2,
+            "Machine Learning": 1,
+            "Angular": 2,
+            "Ruby": 1,
+            "C++": 5
+        }
+    },
+    {
+        "emp_id": 191,
+        "name": "Hiroshi33",
+        "skills": {
+            "GCP": 1,
+            "Git": 2,
+            "HTML": 5,
+            "Go": 3,
+            "PyTorch": 1,
+            "Flask": 2,
+            "Machine Learning": 4
+        }
+    },
+    {
+        "emp_id": 192,
+        "name": "Sami75",
+        "skills": {
+            "Azure": 3,
+            "GCP": 4,
+            "AWS": 2,
+            "Java": 3,
+            "TensorFlow": 1
+        }
+    },
+    {
+        "emp_id": 193,
+        "name": "Emiko76",
+        "skills": {
+            "Django": 2,
+            "GCP": 5,
+            "MongoDB": 2,
+            "PHP": 3,
+            "Java": 3,
+            "SQL": 5,
+            "Ruby": 2,
+            "React": 2
+        }
+    },
+    {
+        "emp_id": 194,
+        "name": "Vikram38",
+        "skills": {
+            "Docker": 5,
+            "Unity": 4,
+            "Angular": 3,
+            "Python": 3,
+            "Kubernetes": 4
+        }
+    },
+    {
+        "emp_id": 195,
+        "name": "Vikram73",
+        "skills": {
+            "Spring Boot": 5,
+            "Machine Learning": 4,
+            "Docker": 3,
+            "PyTorch": 3,
+            "CSS": 2,
+            "JavaScript": 4
+        }
+    },
+    {
+        "emp_id": 196,
+        "name": "Nashit94",
+        "skills": {
+            "JavaScript": 3,
+            "C++": 2,
+            "HTML": 1,
+            "Unity": 4,
+            "Kubernetes": 2,
+            "Azure": 4,
+            "Java": 5,
+            "Machine Learning": 1
+        }
+    },
+    {
+        "emp_id": 197,
+        "name": "Wang18",
+        "skills": {
+            "PHP": 1,
+            "Angular": 4,
+            "HTML": 4,
+            "Machine Learning": 5,
+            "Unity": 3,
+            "PyTorch": 4,
+            "React": 3,
+            "TensorFlow": 1,
+            "MongoDB": 4
+        }
+    },
+    {
+        "emp_id": 198,
+        "name": "Nia26",
+        "skills": {
+            "CSS": 5,
+            "Django": 5,
+            "Git": 3,
+            "HTML": 4,
+            "Kubernetes": 3
+        }
+    },
+    {
+        "emp_id": 199,
+        "name": "Farida49",
+        "skills": {
+            "Go": 5,
+            "Git": 1,
+            "Unity": 3,
+            "Spring Boot": 2,
+            "Ruby": 1,
+            "GCP": 1
+        }
+    },
+    {
+        "emp_id": 200,
+        "name": "Giovanni85",
+        "skills": {
+            "TensorFlow": 4,
+            "Machine Learning": 3,
+            "Python": 4,
+            "PyTorch": 1,
+            "Flask": 3,
+            "Go": 4,
+            "MongoDB": 4
+        }
+    }
+]

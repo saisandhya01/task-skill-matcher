@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Search Results</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Search Results for Prompt</h1>
+      <p><strong>Prompt:</strong> {{ prompt }}</p>
+      <p><strong>Skills Extracted:</strong> {{ skills }}</p>
+
+      <h3>Top Employees Matching Your Requirements</h3>
+      {% if employees %}
+      <ul>
+        {% for employee in employees %}
+        <li>
+          <h4>{{ employee.name }} (Employee ID: {{ employee.emp_id }})</h4>
+          <p><strong>Skills:</strong></p>
+          <ul>
+            {% for skill, level in employee.skills.items() %}
+            <li>{{ skill }}: {{ level }}</li>
+            {% endfor %}
+          </ul>
+          <p><strong>Match Score:</strong> {{ employee.match_score }}</p>
+        </li>
+        {% endfor %}
+      </ul>
+      {% else %}
+      <p>No employees found matching the skills from your prompt.</p>
+      {% endif %}
+      <br />
+      <a href="/">Back to Home</a>
+    </div>
+  </body>
+</html>
