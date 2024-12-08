@@ -1,18 +1,19 @@
-#Description
+# Description
+
 A simple prototype of an application that finds talent based on a prompt.
 
-#Tech stack
+# Tech stack
 
 1. HTML
 2. CSS
 3. Flask (Python)
 
-#Prerequisites
+# Prerequisites
 
 1. Python
 2. Flask
 
-#Setup
+# Setup
 
 1. Open terminal in your project directory
 2. Type `python app.py`
