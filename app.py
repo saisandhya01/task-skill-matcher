@@ -13,7 +13,7 @@ with open('employee.json', 'r') as file:
 nlp = spacy.load("en_core_web_sm")
 
 # Predefined skill list for matching (for simplicity)
-skills_list = ["C++", "PHP", "Ruby", "SQL", "Git", "JavaScript", "CSS", "HTML", "Python", "Java", "Springboot", "Machine Learning", "Pytorch", "Swift", "Docker"]
+skills_list = ["C++", "Php", "Ruby", "Sql", "Git", "Javascript", "Css", "Html", "Python", "Java", "Springboot", "Machinelearning", "Pytorch", "Swift", "Docker", "Angular", "Mongodb"]
 
 @app.route('/', methods=['GET', 'POST'])
 def home():
